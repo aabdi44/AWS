@@ -137,4 +137,4 @@ pymongo wasn't installed in the project's venv. Fixed with:
 
 ##  Finishing 
 
-When you're done: **EC2 → Instances → select instance → Instance state → Terminate instance**
+**EC2 → Instances → select instance → Instance state → Terminate instance**
